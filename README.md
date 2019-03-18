@@ -12,3 +12,6 @@ You can enter both boxes.
 Each box should consist of [Label, Top left X, Top left Y, Width, Height] in list form.
 
 # Example
+
+![Example1](./Example Image/1.png)
+![Example2](./Example Image/2.png)
